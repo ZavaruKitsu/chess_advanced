@@ -19,8 +19,8 @@ The main goal is to create a chess game that works in a console using unicode sy
 ## How to run
 
 ```shell
-git clone https://github.com/ZavaruKitsu/practice3_advanced
-cd practice3_advanced
+git clone https://github.com/ZavaruKitsu/chess_advanced
+cd chess_advanced
 
 # setup virtual environment
 python -m venv venv
